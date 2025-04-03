@@ -12,7 +12,6 @@ This repository contains the design and implementation of an autonomous robotic 
 - [Software Architecture](#software-architecture)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Project Overview
@@ -77,20 +76,21 @@ We welcome contributions to enhance the capabilities of the Autonomous Robo Socc
 - Test your changes thoroughly before submitting a pull request.
 - Provide a clear description of your changes and the problem they solve.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE), allowing for open collaboration and modification.
-
 ## Acknowledgements
 
 This project builds upon concepts and technologies from various open-source initiatives and research in the field of robotic soccer. Notable references include:
 
-- [Autonomous Soccer Playing Robot](https://www.instructables.com/Autonomous-Soccer-Playing-Robot/)
-- [Ball Tracking ESP32 Robot Using OpenCV and Python](https://www.youtube.com/watch?v=W7tKPS5KX_o)
-- [Fully Open Source Educational Nucleo-Based Robot](https://community.st.com/t5/stm32-mcus-products/fully-open-source-educational-nucleo-based-robot/td-p/461808)
+Reference CAD Designs to use:
 - [CAD Design-0](https://www.tinkercad.com/things/53nqoq34h0A-robot-soccer)
 - [CAD Design-1](https://grabcad.com/library/robo-soccer-bot-1)
 - [CAD Design-2](https://grabcad.com/library/robosoccer-bot-basic-1)
 
-For detailed tutorials and further reading, refer to the links provided above.
+Reference resources to Build:
+- [Soccer bot](https://www.hackster.io/ciurisci/arduino-esp32-all-in-one-robot-b9b1c6)
+- [Autonomous Soccer Playing Robot](https://www.instructables.com/Autonomous-Soccer-Playing-Robot/)
+- [Non-invasive control for soccer bot](https://www.instructables.com/Autonomous-Soccer-Robot/)
+- [Autonomous RoboCup Junior Soccer Open Robots](https://www.pcbway.com/project/sponsor/Autonomous_RoboCup_Junior_Soccer_Open_Robots_37f6f5dd.html)
+- [Fully Open Source Educational Nucleo-Based Robot](https://community.st.com/t5/stm32-mcus-products/fully-open-source-educational-nucleo-based-robot/td-p/461808)
+- [Ball Tracking ESP32 Robot Using OpenCV and Python](https://www.youtube.com/watch?v=W7tKPS5KX_o)
+
 
